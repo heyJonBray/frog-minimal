@@ -1,0 +1,11 @@
+{
+  "details": {
+    "name": "frog-minimal",
+    "symbol": "🐸",
+    "hash": {
+      "hash1": "0x1",
+      "hash2": "0x2"
+    }
+  },
+  "result": "success"
+}
